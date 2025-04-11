@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is a curated collection of in-depth research documents created with the assistance of advanced AI tools. It showcases the application of AI in generating comprehensive research across various subjects, demonstrating the potential of AI to augment the research process.
+Deep Research is a repository showcasing in-depth research conducted using advanced AI tools such as Gemini and GPT. While the insights are comprehensive, please note that the content may contain inaccuracies or limitations inherent to generative AI.
 
 ## Target Audience
 
@@ -27,6 +27,8 @@ Below is a list of the research documents currently available, generated with AI
     *   _Summary:_ An AI-generated detailed framework for PMMs on strategically positioning AI products, covering principles, AI-specific considerations, challenges, and metrics.
 *   [**Value Proposition Frameworks and Tools.md**](./Value%20Proposition%20Frameworks%20and%20Tools.md)
     *   _Summary:_ An AI-assisted comparative analysis of key frameworks (Value Proposition Canvas, Lean Startup, JTBD) and tools for developing compelling value propositions across B2B/B2C scenarios.
+*   [**PMM Growth Metrics Dictionary.md**](./PMM%20Growth%20Metrics%20Dictionary.md)
+    *   _Summary:_ A comprehensive dictionary of growth metrics for PMMs in B2B and B2C, detailing definitions, formulas, benchmarks, and usage across the marketing funnel.
 
 ## Contribution Guidelines
 
